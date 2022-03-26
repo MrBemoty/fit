@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+.party {
+    color: rebeccapurple;
+}
+
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+nav a {
+    color:sandybrown;
+    font-size: 20px;
+}
+
+nav {
+    background-color: bisque;
+}
+
+header {
+    background-color: bisque;
+}
